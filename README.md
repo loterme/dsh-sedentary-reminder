@@ -4,7 +4,7 @@
 
 A quiet sitting timer for DeepSeek Harness: a slim pill under the composer keeps the time, and every 30–90 minutes a card slides up from the bottom and invites you to stand up and move. No sound, no system notifications, no network.
 
-![提醒卡片从页面底部滑出，停在输入框上方](docs/preview.svg)
+![提醒卡片停在输入框上方，三个选择：去走走、再坐 10 分钟、暂停 1 小时](assets/reminder-card.png)
 
 ## 安装 / Install
 

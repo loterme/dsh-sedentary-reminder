@@ -1,4 +1,4 @@
-﻿window.__ModuleLoader__.load({
+window.__ModuleLoader__.load({
   id: 'dsh-sedentary-reminder',
   factory(require) {
     'use strict';
@@ -851,8 +851,6 @@
         ctx.effect(function () {
           return function () { persistNow(); };
         }, 'sedentary-reminder: flush on dispose');
-
-
 
         ctx.slots.inject('shell.overlay', function () {
           return ctx.slots.register({
