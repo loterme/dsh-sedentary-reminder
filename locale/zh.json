@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "久坐提醒",
+    "description": "用一张从页面底部滑出的卡片，温和地提醒你起身活动，可自己调整间隔和休息时长。",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Sedentary reminder",
+    "description": "Gently reminds you to stand up and move, with a card that slides up from the bottom of the page.",
+    "detail": "docs/DETAIL.md"
+  }
+}
